@@ -17,6 +17,7 @@ https://forum.xda-developers.com/member.php?u=2800838
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
 ### My job:
+Only one indie developer supported by donations. 
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No):
@@ -34,6 +35,7 @@ https://forum.xda-developers.com/member.php?u=2800838
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
+I am preparing an "About" screen with revelant information about the app where I will mention all the translators.
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
